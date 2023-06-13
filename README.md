@@ -1,8 +1,12 @@
-# 💫 About Me:
-🔭 I'm currently working on my portfolio<br>🧑‍🤝‍🧑 I'm looking to collaborate on fullstack development of web apps<br>🤝 I'm looking for help with developing solutions that actually solve a problem<br>🌱 I'm currently learning Python & Next.js<br>⚡ Fun fact -> I talk to myself and ask questions to the wind while I'm programming, it seems like I'm crazy lol
+# 💫 Sobre mim:
+🔭 Atualmente estou trabalhando em meu portfólio.<br>
+🧑‍🤝‍🧑 Procuro colaborar no desenvolvimento fullstack de aplicativos da web.<br>
+🤝 Estou procurando ajuda para desenvolver soluções que realmente resolvam um problema.<br>
+🌱 Atualmente estou aprendendo Python e Next.js.<br>
+⚡ Fato divertido -> Eu converso comigo mesmo e faço perguntas ao vento enquanto estou programando, parece que estou louco rsrs
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/souweslleymoura) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souweslleymoura) 
 
 # 💻 Tech Stack:
@@ -10,10 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WeslleyMouraDev&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WeslleyMouraDev&theme=blueberry&hide_border=false)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=WeslleyMouraDev&icon=0&color=1)](https://visitcount.itsvg.in)
 
